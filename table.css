@@ -1,0 +1,20 @@
+.table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 400px;
+}
+
+th {
+    background-color: gray;  
+}
+
+th,td {
+    border: solid 1px gray;
+    padding: 15px 0 15px 10px;
+    text-align: left;
+    width: 50%;
+}
+
+td {
+    font-weight: bold;
+}
